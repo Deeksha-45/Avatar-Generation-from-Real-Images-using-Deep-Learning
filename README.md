@@ -49,7 +49,14 @@ This project aims to generate unique avatars using deep learning techniques. We 
 
 ## Results 
 - You can see sample of generated avatars once you run the "generate avatar.py" file in your vscode.
-  
+
+## Future Enhancements
+
+1. **Customization**: Allow users to customize avatar attributes.
+2. **Artistic Styles**: Implement artistic style options.
+3. **Interactive Interface**: Create a user-friendly web interface.
+4. **Higher Resolutions**: Enable high-resolution avatar generation.
+
 ## Acknowledgments
 - CelebA Dataset: [Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 
