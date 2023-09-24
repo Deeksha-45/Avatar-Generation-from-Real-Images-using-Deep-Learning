@@ -59,6 +59,7 @@ This project aims to generate unique avatars using deep learning techniques. We 
 5. **Animation**: Explore the creation of animated avatars with expressive motions.
 6. **Privacy and Security**: Ensure user data privacy and secure handling.
 
+
 ## Acknowledgments
 - CelebA Dataset: [Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 
