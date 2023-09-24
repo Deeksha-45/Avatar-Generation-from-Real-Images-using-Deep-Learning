@@ -52,10 +52,12 @@ This project aims to generate unique avatars using deep learning techniques. We 
 
 ## Future Enhancements
 
-1. **Customization**: Allow users to customize avatar attributes.
-2. **Artistic Styles**: Implement artistic style options.
-3. **Interactive Interface**: Create a user-friendly web interface.
-4. **Higher Resolutions**: Enable high-resolution avatar generation.
+1. **Customization**: Enhance user experience with attribute customization options.
+2. **Artistic Styles**: Add artistic style choices for unique avatars.
+3. **Interactive Interface**: Develop an intuitive web interface for user convenience.
+4. **Resolution Variety**: Expand avatar generation to offer different resolutions.
+5. **Animation**: Explore the creation of animated avatars with expressive motions.
+6. **Privacy and Security**: Ensure user data privacy and secure handling.
 
 ## Acknowledgments
 - CelebA Dataset: [Kaggle](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
